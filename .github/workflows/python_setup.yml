@@ -6,7 +6,7 @@ on:
       - '**'
 
 jobs:
-  setup:
+  Python-setup:
     runs-on: ubuntu-latest
 
     steps:
